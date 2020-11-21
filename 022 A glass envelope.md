@@ -1,0 +1,235 @@
+# Lesson 22 A glass envelope
+
+## 单词讲解
+
+> dream v. 做梦，梦想
+
+- I always **dream of / about** flying like a bird.
+
+  dream of / about 梦到，梦想到。介词 + 动名词 flying
+
+
+
+> dream n. 梦，梦想
+
+- I have a dream ... 
+
+- Your future depends on your dreams. 你的未来取决于你的梦想。
+
+  depends on 依赖于，取决于，依赖关系
+
+  So go to sleep!
+
+- I **dreamed a dream** in time gone by ...  在时间流逝当中我有一个梦想
+
+  dreamed a dream 同源词组，动词+名词，做着一个梦，表示有一个梦想， = have a dream
+
+  in time gone by 在时间流逝当中
+
+
+
+> channel n. 海峡
+
+the Channel
+
+the English Channel
+
+the British Channel
+
+
+
+> throw v. 扔，抛（threw, thrown）
+
+- throw the bottle into the sea
+
+  throw A into B 表示把 A 扔到 B 里去。
+
+- throw away
+
+
+
+
+
+
+
+## 课文语法讲解
+
+My daughter, Jane, never **dreamed of receiving a letter from** a girl of her own age in Holland.
+
+> Jane 同位语，解释说明前面的名词。
+>
+> dream of / about 梦到，梦想到。介词 + 动名词 receiving
+>
+> receiving a letter from  收到来自...的一封信
+>
+> of 表示属性 跟她同龄的女孩
+>
+> in Holland 在...
+
+
+
+Last year, we were **travelling across the Channel** and Jane **put a piece of paper** with her name and address on it **into a bottle**.
+
+> were travelling 过去进行时，表示正在旅行横穿英吉利海峡
+>
+> with her name and address on it
+>
+> with prep. 伴随着有 ...；without prep. 伴随着没有 ...
+>
+> with + n. + 介词短语 这个介词短语通常表示方位和地点，强调表示伴随着有...在哪里。
+
+- a wallet with 200 dollars in it
+- a bus with 500 people on it
+
+
+
+She **threw the bottle into the sea**.
+
+
+
+She never **thought of** it again, but ten months later, she received a letter from a girl in Holland.
+
+>thought 原形 think； think of 考虑，想起
+
+
+
+Letters will cost **a little more**, but they will certainly travel faster.
+
+> cost v. 花费，但主语是物不能是人
+>
+> travel 运送、递送
+
+
+
+
+
+### 修饰比较级
+
+比较级的缺陷在于只能比较，但是说明不了程度。因此需要加上一些词来修饰，以限定程度。
+
+a little (bit) 一点点
+
+much / a lot / far 很多
+
+even 甚至
+
+
+
+
+
+## 知识拓展
+
+### 后面可接 of / from / in / on 的动词
+
+- on
+
+act on 遵守
+
+base on 在...基础上
+
+comment on 评论
+
+concentrate on 集中
+
+lean on (against) （身体）依靠于...
+
+live on 靠...为生
+
+operate on 起作用（做手术）
+
+count on / depend on /  rely on（抽象意义）依靠，依赖
+
+- in
+
+believe in 信仰
+
+delight in 喜欢
+
+interest in 感兴趣
+
+include in 包括
+
+involve in 卷入
+
+engage in 正做（参与）
+
+experience in 在...有经验
+
+fail in 没有尽到（失败）
+
+help in (with) 帮助
+
+- from
+
+borrow from 从...借
+
+receive from 收到来自于...
+
+escape from 从...逃出
+
+draw from 从...拉过来
+
+suffer from 从...受苦受难
+
+differ from 有别于
+
+separate from 从...分开
+
+protect from 保护...使免于；同义词：defend from 
+
+prevent from 阻止...使免于
+
+- of
+
+consist of 由...组成
+
+think of 思考
+
+complain of (about) 抱怨
+
+dream of (about) 幻想，梦到
+
+accuse of 控告
+
+approve of 赞成
+
+assure of 让...放心
+
+beware of 注意，小心
+
+be / get rid of 摆脱
+
+tired of 对...感到厌烦
+
+convince of (about) 使...信服
+
+
+
+### 练习
+
+1. I withdrew a lot of money `______` the bank.
+2. I refuse to comment  `______`  his work.
+3. The waiter' s tip is included  `______` the bill.
+4. Beware  `______`  the dog.
+5. Do you approve  `______`  hunting?
+6. Are you interested  `______`  music?
+7. Don' t lean  `______`  the shelf.
+8. They differ  `______`  each other so much.
+
+
+
+答案
+
+1. from
+2. on
+3. in
+4. of
+5. of
+6. in
+7. on
+8. from
+
+
+
+
+
