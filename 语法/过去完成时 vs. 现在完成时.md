@@ -8,21 +8,29 @@
 | 过去的之前         | 现在的之前         |
 | 站在过去回头看之前 | 站在现在回头看之前 |
 
-例句：
 
-> It is 10:00. I (wait) for 2 hours.
 
-等了2个小时，需要站在现在回头往前看，所以现在的之前用现在完成时。
+## 例句
 
-补充如下
+1. It is 10:00. I `______` (wait) for 2 hours.
 
-> It is 10:00. I have waited for 2 hours.
+   > 解析
+   >
+   > It is ... 说明时间
+   >
+   > 等了2个小时，需要站在现在回头往前看，所以现在的之前用**现在完成时**。
+   >
+   > It is 10:00. I have waited for 2 hours.
 
-如果使用了was，表示过去完成时，站在过去回头看之前
+   
 
-> It was 10:00. I (wait) for 2 hours.
+2. It was 10:00. I `______` (wait) for 2 hours.
 
-补充如下
-
-> It was 10:00. I had waited for 2 hours.
+   > 解析
+>
+   > 如果使用了was，表示过去的时间，站在过去的时间点回头看之前，使用过去完成时。
+   >
+   > It was 10:00. I had waited for 2 hours.
+   
+   
 
