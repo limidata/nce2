@@ -1,5 +1,7 @@
 # There be 句型
 
+## 用法
+
 1. There be + n.  表示有（客观存在），不是拥有。
 
    ... there is lovely garden. （倒装句）
@@ -26,7 +28,7 @@
 
 
 
-4. There be + n. + 介词短语/doing
+4. There be + n. + 介词短语 / doing
 
    There is a girl crying in the classroom.
 
